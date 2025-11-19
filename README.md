@@ -6,7 +6,7 @@ Software Developer
 Frontend Engineer specializing in JavaScript, React with a track record of delivering scalable SaaS integrations and performance-driven solutions. Passionate about solving complex problems, continually learning new frameworks and technologies. I value collaboration as much as clean code, thrive in cross-functional teams, and enjoy sharing ideas around frontend innovation, cloud technologies, and emerging tools.
 
 
-<div align="left">
+<div align="center">
   <img src="https://streak-stats.demolab.com?user=aidenshaw07&locale=en&mode=weekly&theme=dracula&hide_border=false&border_radius=3&order=3" height="200" alt="streak graph"  />
 </div>
 
